@@ -1,1 +1,1 @@
-Git Version control system
+Git Version control system repository
